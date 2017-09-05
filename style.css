@@ -1,0 +1,25 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+body {
+  background-color: #e6f9ff;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+/*.jumbotron {
+  background-color: #f2d9e6;
+}*/
+
+#myDiv {
+  float: right;
+  padding-right: 80px;
+}
+
+#title {
+  font: "sans-serif";
+}
